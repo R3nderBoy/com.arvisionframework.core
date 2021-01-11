@@ -5,7 +5,9 @@ using UnityEngine.Events;
 using UnityEngine.Rendering;
 
 
-
+/// <summary>
+/// Adding Documentation
+/// </summary>
 namespace ARVisionFrameWork.Core
 {
 
